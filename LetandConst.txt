@@ -1,0 +1,19 @@
+var PI = 3.14;
+PI = 42; // stop me from doing t
+ 
+Change to - 
+const PI=3.14;
+
+__________________________________
+
+What is the difference between var and let? 
+let is block-scoped, var is not
+
+What is the difference between var and const? 
+const cannot be reassigned or redeclared.
+
+What is the difference between let and const? 
+const cannot be reassigned.
+
+What is hoisting? 
+when a variable is loaded first but without a value.
